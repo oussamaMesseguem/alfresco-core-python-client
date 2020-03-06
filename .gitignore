@@ -67,3 +67,13 @@ target/
 
 # vscode
 .vscode/
+
+# Eclipse
+.classpath
+.settings
+.project
+
+# Intellij
+.idea/
+*.iml
+*.iws
